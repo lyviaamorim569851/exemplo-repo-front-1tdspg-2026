@@ -6,3 +6,6 @@ Tarefa de Aula:
 4 - Criar a pagina2.html dentro de uma pasta de nome paginas.
 5 - Criar os links referentes a todas as páginas de ida e volta.
 6 - O conteúdo da pagina2 deve ser criado parecido com o da pagina1.
+7 - Aplique um estilo inline no body de todas as páginas que fique padrão.
+8 - Aplique estilização de alinhamento centralizado para todos os títulos existentes, Ex h1,h2 etc;
+9 - Altera a cor de fundo do Header e a borda.
